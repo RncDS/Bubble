@@ -1,4 +1,4 @@
-base_country_code,base_country_name,latitude,longitude,Netscore,Netcat,Year
+base_country_code,base_country_name,latitude,longitude,Netscore,Netcat,year
 af,Afghanistan,33.93911,67.709953,654,Pos,2015
 al,Albania,41.153332,20.168331,478,Pos,2015
 dz,Algeria,28.033886,1.659626,531,Neg,2015
